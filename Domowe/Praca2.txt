@@ -1,0 +1,3 @@
+Stwórz program wczytujący tekst z pliku tekstowego i wypisujący listę słów, które w tym
+pliku wystąpiły wraz z liczbą ich wystąpień. Hint: Warto pozbyć się najpierw znaków
+specjalnych i interpunkcyjnych oraz zamienić wielkość liter w słowach na małe.
