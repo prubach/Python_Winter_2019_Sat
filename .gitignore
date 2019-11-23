@@ -1,0 +1,4 @@
+*.bin
+.ipynb*
+venv
+.idea
