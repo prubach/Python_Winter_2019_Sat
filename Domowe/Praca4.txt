@@ -1,0 +1,3 @@
+Uzupełnij strukturę w pliku Bank o:
+- wyjątki wyrzucane w momencie, gdy użytkownik chce dokonać uznania lub obciążenia na ujemną kwotę
+- historię operacji pokazującą tworzenie konta i wszystkie zmiany jego salda a także datę wykonania danej operacji
